@@ -1,0 +1,2 @@
+rootProject.name = "Dagger-Named-BindsInstance-Component.Builder"
+include ':app'
