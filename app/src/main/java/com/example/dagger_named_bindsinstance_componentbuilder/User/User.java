@@ -6,6 +6,7 @@ public class User {
 
     UserInfo userInfo;
 
+    @Inject
     public User(UserInfo userInfo) {
         this.userInfo = userInfo;
     }
