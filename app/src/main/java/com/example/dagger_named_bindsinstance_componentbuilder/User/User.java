@@ -11,6 +11,10 @@ public class User {
     }
 
     public void manageUser(){
+        userInfo.userID();
+        userInfo.userPass();
+        userInfo.usreName();
+
         System.out.println("User Is Using The App");
     }
 }
